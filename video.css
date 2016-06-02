@@ -1,0 +1,115 @@
+#Video{
+
+	width: 50%;
+	text-align: center;
+	margin-top: 10px;
+	float: auto;
+
+}
+#red1{
+width: 23%;
+float: left;
+margin-top: 50px;
+margin-right: 5px;
+margin-left: 5px;
+
+}
+
+#red2{
+width: 23%;
+float:right;
+margin-top: 50px;
+margin-left: 5px;
+margin-right: 5px;
+	
+}
+
+
+#progress-bar{
+
+	background-color: red;
+}
+.progress{
+
+	text-align: center;
+	width: 20%;
+	margin-top: 10px;
+
+}
+
+#barmaster{
+
+	margin-bottom: 10px;
+	width: 100%;
+	text-align: center;
+}
+
+#progress-bar{
+
+	text-align: center;
+	width: 50%;
+	
+	
+}
+
+
+#myProgress {
+    position: relative;
+    width: 100%;
+    height: 30px;
+    background-color: grey;
+
+    }
+#buttonbar{
+
+
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+}
+
+
+
+
+
+#logo{
+	width: 10%;
+	height:10%;
+	text-align: center;
+	
+}
+
+
+body{
+
+
+	text-align: center;
+	background-color: #959595;
+}
+
+
+.cabecera{
+
+
+	width:100%;
+
+	
+	background-color: #252525;
+	float: left;
+}
+
+#logotipo{
+
+	width: 200px;
+	margin: 30px;
+}
+
+footer{
+
+
+width:100%;
+
+	height: 200px;
+	background-color: #252525;
+
+}
